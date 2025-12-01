@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# ZMB Runtime
+zmb.log
+zmb_state.json
+
+# Build Artifacts
+build/
+dist/
+*.egg-info/
+
+# Generated Context
+test_context.md
+context.md
+
+
+# Private Backend (Russian Doll)
+zmb_cloud/

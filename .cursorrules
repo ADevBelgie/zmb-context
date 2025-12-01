@@ -1,0 +1,14 @@
+# Cursor Rules
+
+## General Behavior
+- Be concise and efficient.
+- Always think step-by-step.
+- If you are unsure, ask clarifying questions.
+- Prefer modern best practices.
+
+
+## Python
+- Use Python 3.x features.
+- Follow PEP 8 style guide.
+- Use type hinting where helpful.
+- Prefer `venv` for virtual environments.

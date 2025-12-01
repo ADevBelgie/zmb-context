@@ -6,7 +6,7 @@
 
 The intelligent CLI that curates your codebase for AI coding assistants. Focus on what matters, ignore the noise.
 
-[**View Public Roadmap**](https://github.com/ADevBelgie/ZMB-Prototype/blob/master/docs/ROADMAP.md) | [**Read the Docs**](https://github.com/ADevBelgie/ZMB-Prototype)
+[**View Public Roadmap**](https://github.com/ADevBelgie/zmb-context/blob/master/docs/ROADMAP.md) | [**Read the Docs**](https://github.com/ADevBelgie/zmb-context)
 
 ```bash
 pip install code-context-architect

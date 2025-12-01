@@ -6,7 +6,7 @@
 - [x] **Core CLI:** `zmb-context` tool for generating context files.
 - [x] **Smart Focus:** Analyze specific parts of the codebase (`--focus`).
 - [x] **.cursorrules Generation:** Automatically create rules for Cursor IDE.
-- [x] **PyPI Deployment:** Available via `pip install zmb-context`.
+- [x] **PyPI Deployment:** Available via `pip install code-context-architect`.
 
 ## Phase 2: Refinement (Current)
 - [x] **Rich UI:** Beautiful terminal output.

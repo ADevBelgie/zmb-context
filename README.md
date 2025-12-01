@@ -9,7 +9,7 @@ The intelligent CLI that curates your codebase for AI coding assistants. Focus o
 [**View Public Roadmap**](https://github.com/ADevBelgie/ZMB-Prototype/blob/master/docs/ROADMAP.md) | [**Read the Docs**](https://github.com/ADevBelgie/ZMB-Prototype)
 
 ```bash
-pip install .
+pip install context-architect
 ```
 
 ### Usage

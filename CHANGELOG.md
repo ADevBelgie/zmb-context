@@ -2,7 +2,7 @@
 
 ## [0.2.3] - 2025-12-01
 ### Changed
-- **Package Name:** Renamed to `context-architect` on PyPI.
+- **Package Name:** Renamed to `code-context-architect` on PyPI.
 
 ## [0.2.2] - 2025-12-01
 ### Fixed
